@@ -1,0 +1,9 @@
+.DS_Store
+bin/
+etc/
+lib/
+pip-selfcheck.json
+pyvenv.cfg
+share/
+
+*.html
